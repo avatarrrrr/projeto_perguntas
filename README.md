@@ -6,7 +6,7 @@
 Questions
 </h1>
 
-<p align="center">Some random question :).</p>
+<p align="center">Some random questions :).</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
